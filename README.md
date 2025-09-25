@@ -1,4 +1,4 @@
-# 🇵🇸 Free Palestine 🇵🇸
+# Free Palestine 
 
 # YouTube Playlist Downloader
 
@@ -134,4 +134,5 @@ This tool is for educational purposes only. Please respect YouTube's Terms of Se
 
 ---
 
-# 🇵🇸 Free Palestine 🇵🇸
+
+# Free Palestine
