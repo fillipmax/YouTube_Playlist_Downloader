@@ -55,7 +55,7 @@ python playlist_downloader/cli.py "https://www.youtube.com/playlist?list=YOUR_PL
 
 ### With Custom Output Directory
 ```bash
-python playlist_downloader/cli.py "https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID" -o "C:\Users\YourName\Videos\Playlists"
+python cli.py "https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID" -o "C:\Users\YourName\Videos\Playlists"
 ```
 
 ### Using PowerShell Wrapper (Windows)
@@ -67,12 +67,12 @@ python playlist_downloader/cli.py "https://www.youtube.com/playlist?list=YOUR_PL
 
 ### Download a Course Playlist
 ```bash
-python playlist_downloader/cli.py "https://www.youtube.com/playlist?list=PLoyB9yetHDhCQfXY-AYyApaDooHHlPbR1" -o "courses"
+python cli.py "https://www.youtube.com/playlist?list=PLoyB9yetHDhCQfXY-AYyApaDooHHlPbR1" -o "courses"
 ```
 
 ### Download Music Playlist
 ```bash
-python playlist_downloader/cli.py "https://www.youtube.com/playlist?list=YOUR_MUSIC_PLAYLIST_ID" -o "music"
+python cli.py "https://www.youtube.com/playlist?list=YOUR_MUSIC_PLAYLIST_ID" -o "music"
 ```
 
 ## Output Structure
@@ -136,3 +136,4 @@ This tool is for educational purposes only. Please respect YouTube's Terms of Se
 
 
 # Free Palestine
+
